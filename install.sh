@@ -5,7 +5,7 @@ rm 0.11.0.tar.gz
 
 # install dependencies
 chmod +x of/scripts/linux/ubuntu/install_dependencies.sh
-sudo ./of/scripts/linux/ubuntu/install_dependencies.sh
+sudo ./of/scripts/linux/ubuntu/install_codecs.sh
 
 # compile 
 cd OF/scripts/linux
